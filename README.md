@@ -21,6 +21,26 @@ SPTMS is a full-stack demonstration of a smart parking facility. It combines an 
 
 > **Important:** This repository currently uses in-memory server state and seeded demonstration data. It is intended as an academic/demo project, not as a production parking or payment platform. State resets when the server restarts. There is no authentication, database persistence, payment gateway or hardware sensor integration in the supplied code.
 
+## Screenshots & Product Demo
+
+### 3D Facility View
+
+Explore the parking facility in an interactive 3D environment, including parking bays, vehicles, solar canopy, entry/exit gates and surrounding city context.
+
+![SPTMS 3D Facility View](assets/3d-facility.png)
+
+### 2D Architectural Floorplan
+
+Inspect the facility layout, parking zones, bay occupancy, EV charging spaces, accessible bays and vehicle positions through the 2D floorplan.
+
+![SPTMS 2D Architectural Floorplan](assets/2d-floorplan.png)
+
+### Product Demo
+
+[▶ Watch the SPTMS product demo (MP4)](assets/product-demo.mp4)
+
+> The screenshots and demo video are stored in the repository's `assets/` directory.
+
 ## Features
 
 - **Interactive 3D facility:** orbit, zoom, camera presets, day/dusk lighting and selectable parking bays.
